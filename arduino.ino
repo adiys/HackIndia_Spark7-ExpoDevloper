@@ -10,7 +10,7 @@ const char* password = "TheTechBestAb"; // Replace with your WiFi password
 const char* provider_url = "http://127.0.0.1:8545"; // URL of the Web3 provider (e.g., Hardhat local network)
 const char* contract_address = "0x5FbDB2315678afecb367f032d93F642f64180aa3"; // Replace with your smart contract address
 
-Web3 web3(provider_url); // Create a Web3 object to interact with the blockchain
+Web3 web3(http://localhost:3000); // Create a Web3 object to interact with the blockchain
 String relayEvent = "0xd44f21f38e3fa8a907a0f65bf3458e8d743d84c2d4ad8f4539e1c0b2170411b2b"; // Keccak-256 hash of the RelayToggled event signature
 
 // Relay pins configuration
