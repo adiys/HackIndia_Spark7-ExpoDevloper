@@ -15,5 +15,26 @@
 Here's an approach for your project on managing IoT enabled devices using web3-enabled Smart Home Automation
 ![Screenshot 2024-09-10 131332](https://github.com/user-attachments/assets/fcb82a05-9f1b-4c35-abb4-b161cb448b28)
 
+##Implementation
+1.Clone the Repository:
+  git clone https://github.com/yourusername/your-repo.git
+  cd your-repo
+  
+2.Install Dependencies:
+npm install
+
+3.Start Hardhat Local Network:
+npx hardhat node
+
+4.Deploy Smart Contracts:
+npx hardhat run scripts/deploy.js --network localhost
+
+5.Run Local Server:
+node server.js
+
+6.Access Web Interface:
+Open http://localhost:3000 in your web browser.
+
+
 
    
