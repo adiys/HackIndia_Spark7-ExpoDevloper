@@ -46,7 +46,7 @@ Open http://localhost:3000 in your web browser.
 8. **HTML/CSS/JavaScript**: Frontend technologies for creating the web interface to interact with the smart contracts.
 9. **MetaMask** (optional for external interactions): Browser extension for managing Ethereum accounts and interacting with dApps.
 10. **Git**: Version control system for managing source code.
-11. **Arduino** Integrating Web3 technology into an Arduino-based home automation system allows for enhanced control and automation through blockchain interactions. Here’s a brief overview of how to implement Web3 with Arduino.
+11. **Arduino**: Integrating Web3 technology into an Arduino-based home automation system allows for enhanced control and automation through blockchain interactions. Here’s a brief overview of how to implement Web3 with Arduino.
 These technologies together enable the development, deployment, and interaction with smart contracts in a Web3-enabled smart home automation system.
 
 ## Use Case
