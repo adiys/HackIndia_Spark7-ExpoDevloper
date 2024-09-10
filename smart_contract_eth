@@ -1,0 +1,30 @@
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+// Define the HomeAutomation contract
+contract HomeAutomation {
+    // State variable to store the state of relay 1
+    bool public relay1State;  // true if relay 1 is on, false if off
+
+    // State variable to store the state of relay 2
+    bool public relay2State;  // true if relay 2 is on, false if off
+
+    // Event to log when a relay is toggled
+    event RelayToggled(uint relayNumber, bool newState);
+
+    // Function to toggle the state of relay 1
+    function toggleRelay1() public {
+        // Toggle the state of relay 1
+        relay1State = !relay1State;
+        // Emit an event to indicate that relay 1 has been toggled
+        emit RelayToggled(1, relay1State);
+    }
+
+    // Function to toggle the state of relay 2
+    function toggleRelay2() public {
+        // Toggle the state of relay 2
+        relay2State = !relay2State;
+        // Emit an event to indicate that relay 2 has been toggled
+        emit RelayToggled(2, relay2State);
+    }
+}
