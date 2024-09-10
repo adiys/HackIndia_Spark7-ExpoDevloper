@@ -34,7 +34,6 @@ node server.js
 6.Access Web Interface:
 Open http://localhost:3000 in your web browser.
 
-##Technologies Used
 ### **Technologies Used**
 
 1. **Hardhat**: Development environment for Ethereum, used for compiling, deploying, and testing smart contracts.
