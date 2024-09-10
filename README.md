@@ -49,13 +49,13 @@ Open http://localhost:3000 in your web browser.
 
 These technologies together enable the development, deployment, and interaction with smart contracts in a Web3-enabled smart home automation system.
 
-### Use Case
+## Use Case
 
 Suppose you have a smart contract that controls the status of various devices in your home. The smart contract can be set up to receive commands or trigger actions based on certain conditions. For instance, you can have a smart contract that:
 
-## - Monitors energy consumption and automatically adjusts settings based on thresholds.
-## - Issues alerts if certain conditions are met, like a gas leak detection.
-## - Allows for decentralized control of devices, where multiple users can interact with the system through blockchain transactions.
+### - Monitors energy consumption and automatically adjusts settings based on thresholds.
+### - Issues alerts if certain conditions are met, like a gas leak detection.
+### - Allows for decentralized control of devices, where multiple users can interact with the system through blockchain transactions.
 
 
    
