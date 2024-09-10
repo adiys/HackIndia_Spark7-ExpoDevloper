@@ -34,6 +34,22 @@ node server.js
 6.Access Web Interface:
 Open http://localhost:3000 in your web browser.
 
+##Technologies Used
+### **Technologies Used**
+
+1. **Hardhat**: Development environment for Ethereum, used for compiling, deploying, and testing smart contracts.
+2. **Solidity**: Programming language for writing smart contracts.
+3. **Node.js**: JavaScript runtime used for running the local server and interacting with the smart contracts.
+4. **Web3.js**: JavaScript library for interacting with the Ethereum blockchain from the web interface.
+5. **Ethereum**: Blockchain platform for deploying and executing smart contracts.
+6. **Local Ethereum Network (Hardhat Network)**: Local blockchain environment for testing and development.
+7. **Express.js** (if used): Web framework for building the local server.
+8. **HTML/CSS/JavaScript**: Frontend technologies for creating the web interface to interact with the smart contracts.
+9. **MetaMask** (optional for external interactions): Browser extension for managing Ethereum accounts and interacting with dApps.
+10. **Git**: Version control system for managing source code.
+
+These technologies together enable the development, deployment, and interaction with smart contracts in a Web3-enabled smart home automation system.
+
 
 
    
