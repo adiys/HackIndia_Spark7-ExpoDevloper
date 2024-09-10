@@ -13,5 +13,7 @@
 5. Cost and Complexity
 
 Here's an approach for your project on managing IoT enabled devices using web3-enabled Smart Home Automation
+![Screenshot 2024-09-10 131332](https://github.com/user-attachments/assets/fcb82a05-9f1b-4c35-abb4-b161cb448b28)
+
 
    
