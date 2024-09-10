@@ -17,7 +17,6 @@ Here's an approach for your project on managing IoT enabled devices using web3-e
 
 ##Implementation
 1.Clone the Repository:
-  git clone https://github.com/yourusername/your-repo.git
   cd your-repo
   
 2.Install Dependencies:
