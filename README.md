@@ -60,4 +60,8 @@ Suppose you have a smart contract that controls the status of various devices in
 ### - Allows for decentralized control of devices, where multiple users can interact with the system through blockchain transactions.
 
 
-   
+### - Future Enhancements
+Add support for more devices (e.g., door locks, HVAC systems).
+Implement mobile app support.
+Use more energy-efficient microcontrollers for power-sensitive applications.
+Integrate AI/ML for predictive automation of home devices based on user behavior.
