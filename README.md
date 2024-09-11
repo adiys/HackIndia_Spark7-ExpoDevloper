@@ -67,3 +67,9 @@ Add support for more devices (e.g., door locks, HVAC systems).
 Implement mobile app support.
 Use more energy-efficient microcontrollers for power-sensitive applications.
 Integrate AI/ML for predictive automation of home devices based on user behavior.
+
+## Team Members:-
+Aditya Kumar Gond 
+Abhay Kumar Gond
+Nitya Pandey 
+Anand Pandey 
