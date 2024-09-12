@@ -69,7 +69,7 @@ Use more energy-efficient microcontrollers for power-sensitive applications.
 Integrate AI/ML for predictive automation of home devices based on user behavior.
 
 ## Team Members:-
-Aditya Kumar Gond 
-Abhay Kumar Gond
-Nitya Pandey 
-Anand Pandey 
+### Aditya Kumar Gond 
+### Abhay Kumar Gond
+### Nitya Pandey 
+### Anand Pandey 
